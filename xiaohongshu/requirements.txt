@@ -1,0 +1,8 @@
+requests
+python-dotenv
+playwright
+openai
+volcengine
+edge-tts
+imageio-ffmpeg
+fal-client

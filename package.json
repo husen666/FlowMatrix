@@ -1,0 +1,16 @@
+{
+  "name": "code",
+  "version": "1.0.0",
+  "description": "AI 视频/文章自动生成 + 全平台一键分发（小红书、抖音、视频号、知乎、头条、微博）。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "playwright": "^1.58.2"
+  }
+}

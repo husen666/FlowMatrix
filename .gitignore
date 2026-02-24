@@ -1,0 +1,42 @@
+# ============ 环境与密钥 ============
+.env
+!.env.example
+
+# ============ Python ============
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+.eggs/
+*.whl
+
+# ============ 虚拟环境 ============
+.venv/
+venv/
+env/
+ENV/
+
+# ============ IDE ============
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ============ 操作系统 ============
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ============ 运行产物 ============
+*.log
+logs/
+output/
+data/
+*.html
+
+# ============ Playwright ============
+playwright-report/
+test-results/

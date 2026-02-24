@@ -1,0 +1,7 @@
+requests
+python-dotenv
+volcengine
+pypinyin
+playwright
+openai
+fal-client
